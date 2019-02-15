@@ -1,0 +1,6 @@
+framework module SSStringExtension {
+  umbrella header "SSStringExtension-umbrella.h"
+
+  export *
+  module * { export * }
+}

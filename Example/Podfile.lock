@@ -1,0 +1,16 @@
+PODS:
+  - SSStringExtension (0.1.0)
+
+DEPENDENCIES:
+  - SSStringExtension (from `../`)
+
+EXTERNAL SOURCES:
+  SSStringExtension:
+    :path: ../
+
+SPEC CHECKSUMS:
+  SSStringExtension: 2ede3c1d17db41b997dc485cd9045d44c92f8c75
+
+PODFILE CHECKSUM: 9359a2979cac69e6fdadaad6f45969be386ba3b8
+
+COCOAPODS: 1.4.0

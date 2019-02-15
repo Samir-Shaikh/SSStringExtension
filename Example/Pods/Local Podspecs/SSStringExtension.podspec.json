@@ -1,0 +1,22 @@
+{
+  "name": "SSStringExtension",
+  "version": "0.1.0",
+  "summary": "A short description of SSStringExtension.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Samir/SSStringExtension",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Samir": "samir.shaikh0620@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Samir/SSStringExtension.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SSStringExtension/Classes/**/*"
+}

@@ -9,8 +9,8 @@
 Pod::Spec.new do |s|
   s.name             = 'SSStringExtension'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of SSStringExtension.'
-
+  s.summary          = 'SSStringExtension is for quick method of strings.'
+  s.swift_version    = '4.1'
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
 #   * Try to keep it short, snappy and to the point.
@@ -18,14 +18,14 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+"SSStringExtension is a lightweight string extension for Swift. This library was motivated by having to search StackOverflow for common string operations, and wanting them to be in one place with test coverage."
                        DESC
 
-  s.homepage         = 'https://github.com/Samir/SSStringExtension'
+  s.homepage         = 'https://github.com/Samir-Shaikh/SSStringExtension'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'Samir' => 'samir.shaikh0620@gmail.com' }
-  s.source           = { :git => 'https://github.com/Samir/SSStringExtension.git', :tag => s.version.to_s }
+  s.author           = { 'Samir Shaikh' => 'samir.shaikh0620@gmail.com' }
+  s.source           = { :git => 'https://github.com/Samir-Shaikh/SSStringExtension.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
