@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-"SSStringExtension is a lightweight string extension for Swift. This library was motivated by having to search StackOverflow for common string operations, and wanting them to be in one place with test coverage."
+  TODO: SSStringExtension is a lightweight string extension for Swift. This library was motivated by having to search StackOverflow for common string operations, and wanting them to be in one place with test coverage.
                        DESC
 
   s.homepage         = 'https://github.com/Samir-Shaikh/SSStringExtension'
@@ -28,9 +28,9 @@ Pod::Spec.new do |s|
   s.source           = { :git => 'https://github.com/Samir-Shaikh/SSStringExtension.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
-  s.ios.deployment_target = '8.0'
+  s.ios.deployment_target = '9.0'
 
-  s.source_files = 'SSStringExtension/Classes/**/*'
+  s.source_files = 'Classes/**/*.{swift}'
   
   # s.resource_bundles = {
   #   'SSStringExtension' => ['SSStringExtension/Assets/*.png']
