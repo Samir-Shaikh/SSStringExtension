@@ -17,9 +17,9 @@ Pod::Spec.new do |s|
 #   * Write the description between the DESC delimiters below.
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
-  s.description      = <<-DESC
-  TODO: SSStringExtension is a lightweight string extension for Swift. This library was motivated by having to search StackOverflow for common string operations, and wanting them to be in one place with test coverage.
-                       DESC
+s.description      = <<-DESC
+        SSStringExtension is a lightweight string extension for Swift. This library was motivated by having to search StackOverflow for common string operations, and wanting them to be in one place with test coverage.
+                  DESC
 
   s.homepage         = 'https://github.com/Samir-Shaikh/SSStringExtension'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
