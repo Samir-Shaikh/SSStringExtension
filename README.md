@@ -5,6 +5,8 @@
 [![License](https://img.shields.io/cocoapods/l/SSStringExtension.svg?style=flat)](https://cocoapods.org/pods/SSStringExtension)
 [![Platform](https://img.shields.io/cocoapods/p/SSStringExtension.svg?style=flat)](https://cocoapods.org/pods/SSStringExtension)
 
+SSStringExtension is a lightweight string extension for Swift. This library was motivated by having to search StackOverflow for common string operations, and wanting them to be in one place with test coverage.
+
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
@@ -22,7 +24,8 @@ pod 'SSStringExtension'
 
 ## Author
 
-Samir, samir.shaikh0620@gmail.com
+Samir Shaikh
+samir.shaikh0620@gmail.com
 
 ## License
 
