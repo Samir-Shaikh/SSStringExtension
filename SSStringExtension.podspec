@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'SSStringExtension'
-  s.version          = '0.1.1'
+  s.version          = '0.1.2'
   s.summary          = 'SSStringExtension is for quick method of strings.'
   s.swift_version    = '4.1'
 # This description is used to generate tags and improve search results.

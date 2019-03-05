@@ -13,7 +13,7 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 
 ## Installation
 
-SSStringExtension is available through [CocoaPods](https://cocoapods.org). To install
+SSStringExtension is available through [CocoaPods](https://cocoapods.org/pods/SSStringExtension). To install
 it, simply add the following line to your Podfile:
 
 ```ruby
