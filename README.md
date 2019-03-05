@@ -11,8 +11,6 @@ SSStringExtension is a lightweight string extension for Swift. This library was 
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
-//## Requirements
-
 ## Installation
 
 SSStringExtension is available through [CocoaPods](https://cocoapods.org). To install
@@ -24,7 +22,7 @@ pod 'SSStringExtension'
 
 ## Author
 
-Samir Shaikh\n
+Samir Shaikh
 samir.shaikh0620@gmail.com
 
 ## License
